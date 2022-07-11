@@ -1,5 +1,5 @@
 def newgit(repo)
 {
-  git "${repo}
+  git "${repo}"
 }
   
